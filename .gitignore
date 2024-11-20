@@ -1,0 +1,16 @@
+.idea/
+/build
+.DS_Store
+imgui.ini
+cmake-build-debug
+/exportData
+/importData
+/src/main.cpp
+/src/generate2DData.cpp
+/include/generate2DData.h
+/src/dataAnalysis.cpp
+/include/dataAnalysis.h
+/src/OLSsolver.cpp
+/include/OLSsolver.h
+/src/TLSsolver.cpp
+/include/TLSsolver.h
